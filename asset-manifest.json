@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/natlex/static/css/main.02fcbe43.css",
+    "main.js": "/natlex/static/js/main.d5fe0051.js",
+    "static/js/787.5c09420c.chunk.js": "/natlex/static/js/787.5c09420c.chunk.js",
+    "index.html": "/natlex/index.html",
+    "main.02fcbe43.css.map": "/natlex/static/css/main.02fcbe43.css.map",
+    "main.d5fe0051.js.map": "/natlex/static/js/main.d5fe0051.js.map",
+    "787.5c09420c.chunk.js.map": "/natlex/static/js/787.5c09420c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02fcbe43.css",
+    "static/js/main.d5fe0051.js"
+  ]
+}
